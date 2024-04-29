@@ -5,7 +5,7 @@
 - 🖼️ My portfolio: [williamsolomon.co](https://williamsolomon.co/)
 - 🚀 Check out the projects I've done on FrontEnd Mentor: Coming soon...
 - 💻 I have over two decades of IT infrastructure and cybersecurity experience
-- :zap: Fun fact: I :heart:   📷,🏀, 🚴‍♂️, and 🏂. 
+- :zap: Fun fact: I :heart:   📷, 🏀, 🚴‍♂️, and 🏂. 
 - 🧠 Currently improving my frontend skills
 
 
