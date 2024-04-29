@@ -1,7 +1,7 @@
  ### Hey there 👋                         
         
 <!-- I’m currently working on expanding my Portfolio -->    
-- 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation Web Development Bootcamp**
+- 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation's Web Development Bootcamp**
 - 🖼️ My portfolio: [williamsolomon.co](https://williamsolomon.co/)
 - 🚀 Check out the projects I've done on FrontEnd Mentor: Coming soon...
 - 💻 I have over two decades of IT infrastructure and cybersecurity experience
