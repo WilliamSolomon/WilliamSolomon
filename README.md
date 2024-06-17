@@ -22,7 +22,7 @@
 </p>
 <br>
 
-**🛠️ Languages Tools**
+**🛠️ Languages & Tools**
 
 ###
 
