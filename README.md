@@ -4,7 +4,7 @@
 - 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation's Web Development Bootcamp**
 - 🖼️ My personal website: [williamsolomon.co](https://williamsolomon.co/)
 - 🚀 Check out the projects I've done on FrontEnd Mentor: Coming soon...
-- 💻 I have over two decades of IT infrastructure and cybersecurity experience
+- 💻 I have over a decade of IT infrastructure and cybersecurity experience
 - :zap: Fun fact: I :heart:   📷, 🏀, 🚴‍♂️, and 🏂. 
 - 🧠 Currently learning to build a chatbot with OpenAI's Assistant API
 
